@@ -5,5 +5,3 @@
 ![Web_Sample](sample_img.jpeg)
 
 
-http://github.com - automatic!
-[GitHub](http://github.com)
