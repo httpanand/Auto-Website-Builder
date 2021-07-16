@@ -1,2 +1,4 @@
 # Portfolio-website-base
-Its just a base for your 
+
+Note -> This is just a Base . You can use this as a basement for building your web.
+You can write more code under this and make this a cool one :)
