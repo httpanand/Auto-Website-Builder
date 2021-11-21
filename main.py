@@ -65,7 +65,7 @@ end = '''
   </html>
 '''
 
-responsive = input('Do you want to make your website mobile responsive ?')
+responsive = input('Do you want to make your website mobile responsive [yes/no] ?')
 if(responsive == 'yes'):
 	fi = open("html.html","a")
 	fi.write(res)
