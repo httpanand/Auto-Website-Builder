@@ -11,7 +11,6 @@
 <li>Responsive  </li>
 </ul>
 
-
 <h3> Features </h3>
 <ul>
 <li>Customizable </li>
