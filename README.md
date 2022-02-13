@@ -19,7 +19,6 @@
 <li>Bootstrap added</li>
 </ul>
 
-
 <h3> Upcoming Features </h3>
 <ul>
 <li>Custom Scroll bar </li>
